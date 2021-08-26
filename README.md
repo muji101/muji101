@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, I'm Muji Kuwat
-[![Gmail Badge](https://img.shields.io/badge/-mujikuwat91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mujikuwat91@gmail.com)](mailto:mujikuwat91@gmail.com) [![Github Badge](https://img.shields.io/badge/-muji101-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muji101/)](https://www.github.com/muji101/) <p align='left'>
-Hi there, I'm MUji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
+## Hey 👋, I'm is Muji Kuwat
+[![Gmail Badge](https://img.shields.io/badge/-mujikuwat91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mujikuwat91@gmail.com)](mailto:mujikuwat91@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Muji Kuwat-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Muji Kuwat/)](https://www.linkedin.com/in/Muji Kuwat/) [![Github Badge](https://img.shields.io/badge/-muji101-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muji101/)](https://www.github.com/muji101/) <p align='left'> Hi there, I'm MUji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=muji101 alt=muji101 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&include_all_commits=true)](https://github.com/muji101/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&layout=compact)](https://github.com/muji101/github-readme-stats)
-
