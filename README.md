@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hey 👋, I'm is Muji Kuwat
 [![Gmail Badge](https://img.shields.io/badge/-mujikuwat91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mujikuwat91@gmail.com)](mailto:mujikuwat91@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mujikuwat-1032bb21b-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mujikuwat-1032bb21b/)](https://www.linkedin.com/in/mujikuwat-1032bb21b/) [![Github Badge](https://img.shields.io/badge/-muji101-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muji101/)](https://www.github.com/muji101/) <p align='left'>Hi there, I'm MUji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
+[![Linkedin Badge](https://img.shields.io/badge/-mujikuwat-1032bb21b-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mujikuwat-1032bb21b/)](https://www.linkedin.com/in/mujikuwat-1032bb21b/) [![Github Badge](https://img.shields.io/badge/-muji101-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muji101/)](https://www.github.com/muji101/) <p align='left'>Hi there, I'm Muji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=muji101 alt=muji101 /> </p>
 
