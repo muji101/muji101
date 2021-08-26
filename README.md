@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, This is Muji Kuwat
+## Hey 👋, I'm Muji Kuwat
 [![Gmail Badge](https://img.shields.io/badge/-mujikuwat91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mujikuwat91@gmail.com)](mailto:mujikuwat91@gmail.com) [![Github Badge](https://img.shields.io/badge/-muji101-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muji101/)](https://www.github.com/muji101/) <p align='left'>
 Hi there, I'm MUji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
 ## Some of my Github Stats
