@@ -1,4 +1,4 @@
-## Hey 👋, I'm is Muji Kuwat
+<!-- ## Hey 👋, I'm is Muji Kuwat
 **muji101/muji101**
 <p align='left'>Hi there, I'm Muji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
 ## Talking about Personal Stuffs:
@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&lang_count=8&theme=radical)](https://github.com/muji101/github-readme-stats)
 
 
-<!--
+
 **muji101/muji101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
