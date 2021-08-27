@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&lang_count=8&theme=radical)](https://github.com/muji101/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muji101&repo=github-readme-stats&theme=radical)](https://github.com/muji101/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/muji101/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muji101&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muji101&repo=convoychat" />
 </a>
 
 
