@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 - 👯 I'm learning full stack with laravel and vue js
 
 <p align='left'>Hi there, I'm Muji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
-## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=muji101 alt=muji101 /> </p>
+
+## Some of my Github Stats
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
