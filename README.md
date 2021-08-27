@@ -19,14 +19,10 @@ Here are some ideas to get you started:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=muji101 alt=muji101 /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&hide=php,javascript&layout=compact&theme=radical)](https://github.com/muji101/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&lang_count=8&theme=radical)](https://github.com/muji101/github-readme-stats)
 
-<a href="https://github.com/muji101/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muji101&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muji101&repo=convoychat" />
-</a>
 
 
 
