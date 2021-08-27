@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=muji101 alt=muji101 /> </p>
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&hide=php,javascript&layout=compact&theme=radical)](https://github.com/muji101/github-readme-stats)
 
