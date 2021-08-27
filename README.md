@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&hide=php,javascript&layout=compact&theme=radical)](https://github.com/muji101/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&hide=html,css,shell,hack&layout=compact&theme=radical)](https://github.com/muji101/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&lang_count=8&theme=radical)](https://github.com/muji101/github-readme-stats)
 
