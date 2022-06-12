@@ -47,7 +47,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muji101&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=muji101&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muji101&label=Profile%20views&color=0e75b6&style=flat" alt="muji101" /> </p>
 
