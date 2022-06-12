@@ -1,68 +1,4 @@
-<!-- ## Hey 👋, I'm is Muji Kuwat
-**muji101/muji101**
-<p align='left'>Hi there, I'm Muji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
-## Talking about Personal Stuffs:
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Vue js
-- 👯 I'm learning full stack with laravel and vue js
-- 📫 How to reach me: mujikuwat91@gmail.com  
-
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=muji101 alt=muji101 /> </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&layout=compact&theme=radical)](https://github.com/muji101/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&lang_count=8&theme=radical)](https://github.com/muji101/github-readme-stats)
-
-
-
-**muji101/muji101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!--
-## Hey 👋, I'm is Muji Kuwat
-[![Gmail Badge](https://img.shields.io/badge/-mujikuwat91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mujikuwat91@gmail.com)](mailto:mujikuwat91@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-muji101-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muji101/)](https://www.github.com/muji101/) 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=muji101 alt=muji101 /> </p>
-
-## Talking about Personal Stuffs:
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Vue js
-- 👯 I'm learning full stack with laravel and vue js
-
-<p align='left'>Hi there, I'm Muji Kuwat, a Web Developer and a Software Engineering from Indonesia.</p>
-
-
-## Technologies & Tools
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/3743183e9684c11f41a1edd857120ba777b69d87bc145470f0c429bfb1fe6390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c50f693ebad075fe01f4a39fa439170d806a4f5165b1b2d9c8e173aa955032b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d616b652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d636d616b65266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/c50f693ebad075fe01f4a39fa439170d806a4f5165b1b2d9c8e173aa955032b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4d616b652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d636d616b65266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/Code-Make-informational?style=flat&amp;logo=cmake&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/88fb8d17286acf80d9b728755bd1fdb7666133274bd9ab77b7fccb42e8c26da8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d5675652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/88fb8d17286acf80d9b728755bd1fdb7666133274bd9ab77b7fccb42e8c26da8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d5675652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/Code-Vue-informational?style=flat&amp;logo=vue.js&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/28a8243bcfea04f9747bd56d17b2fac55709bd7feddee5ad9a6c8a741816ac38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/28a8243bcfea04f9747bd56d17b2fac55709bd7feddee5ad9a6c8a741816ac38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" style="max-width:100%;"></a>
-
-## Some of my Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&hide=html,css,shell,hack&layout=compact&theme=radical)](https://github.com/muji101/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&lang_count=8&theme=radical)](https://github.com/muji101/github-readme-stats)
-
-
--->
-
 <h1 align="center">Hi 👋, I'm Muji Kuwat</h1>
 <h3 align="center">Hi there, I'm Muji Kuwat, a Web Developer and a Software Engineering from Indonesia.</h3>
 
@@ -92,13 +28,29 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&lang_count=8&theme=radical)](https://github.com/muji101/github-readme-stats)
 
-<!--
+-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muji101&show_icons=true&locale=en&layout=compact" alt="muji101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muji101&show_icons=true&locale=en" alt="muji101" /></p>
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/muji.ku#1944) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muji.kuwat.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/terlalumalamm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muji-kuwat-1032bb21b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCakTJCmm7_fxUAvA_S_LVwg) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muji101&" alt="muji101" /></p>
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=muji101&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muji101&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muji101&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muji101&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=muji101&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
 
 
 
